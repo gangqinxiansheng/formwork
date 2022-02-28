@@ -3,7 +3,7 @@ formwork是一个高度封装的flask demo.
 
 它集成了各种代码，比如mysql(pymysql)，用于web开发目的第三方包，route demo，templates demo(存放html的文件)等等。
 
-简体中文 | [English](/README.md)
+#### 简体中文 | [English](/README.md)
 
 ## 步骤
 - 在 project/templates/ 路径下添加或修改HTML文件。(可选)
