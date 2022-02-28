@@ -2,6 +2,8 @@
 formwork是一个高度封装的flask demo.
 它集成了各种代码，比如mysql(pymysql)，用于web开发目的第三方包，route demo，templates demo(存放html的文件)等等。
 
+#### [English Version README](/README.md) 
+
 ## 优势
 - 提高flask动态网站开发效率,几步即可跑起一款拥有复杂文件结构的flask网站
 - 极大减少了flask开发时遇到BUG的概率
@@ -9,9 +11,6 @@ formwork是一个高度封装的flask demo.
 - 文件教程易找清晰明了
 - 封装了mysql相关函数,因为mysql大量用于生成环境.弥补了flask官方文档中SQLAlchemy只能使用sqlite的不足.
 - 定义了一个相对标准的flask文件结构,让复杂的动态网站开发有迹可循
-
-
-#### [English Version README](/README.md) 
 
 ## 步骤
 - 在 project/templates/ 路径下添加或修改HTML文件。
