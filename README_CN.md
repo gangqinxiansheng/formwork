@@ -1,4 +1,7 @@
 # 概述
+
+[![](https://img.shields.io/badge/github-issues-%2365A30D?style=flat-square&logo=github)](https://github.com/Oumae-Kumiko/time-zone-date/issues)
+
 formwork是一个高度封装的flask demo.
 
 它集成了各种代码，比如mysql(pymysql)，用于web开发目的第三方包，route demo，templates demo(存放html的文件)等等。
