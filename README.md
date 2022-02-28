@@ -3,7 +3,7 @@
 Formwork is a highly packaged flask demo.
 It's intergrates various code such as mysql(pymysql),function for web development purposes,route demo, template demo and so on.
 
-#### English | [简体中文](/README_cn.md)
+#### English | [简体中文](/README_CN.md)
 
 ## How to use?
 
