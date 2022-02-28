@@ -8,7 +8,7 @@ formwork是一个高度封装的flask demo.
 
 #### 简体中文 | [English](/README.md)
 
-## 步骤
+## 如何使用
 - 在 project/templates/ 路径下添加或修改HTML文件。(可选)
 - 在 project/routes/ 文件夹以修改 .py 的路由文件。(可选)
 - 在根目录运行 ```python setup.py install``` 去安装指定模块
