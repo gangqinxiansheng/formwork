@@ -5,7 +5,7 @@ It's intergrates various code such as mysql(pymysql),function for web developmen
 
 #### English | [简体中文](/README_cn.md)
 
-### How to use?
+## How to use?
 
 - change project/templates/ folder to add or modify html file.
 - Change project/routes/ folder to modify route.py file.
