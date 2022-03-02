@@ -28,5 +28,14 @@ formwork是一个高度封装的flask demo.
 - 封装了mysql相关函数,因为mysql大量用于生成环境.弥补了flask官方文档中SQLAlchemy只能使用sqlite的不足.
 - 定义了一个相对标准的flask文件结构,让复杂的动态网站开发有迹可循
 
+## 对比
+|formwork-flask|django|
+|---|---|
+|**rapid development**|general|
+|**Lightweight**|Structure is complex|
+|Read easily|Read difficult|
+|Use easily|Use cumbersomely|
+|Few BUGs|Unknown|
+
 ## 加入我们
 你的帮助很受欢迎！ 甚至只是打开一个问题，提出一个问题可能会极大地帮助他人。
