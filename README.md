@@ -22,23 +22,6 @@ It's intergrates various code such as mysql(pymysql),function for web developmen
 
 - Python 2.7+ version, better 3.6 version
 
-## Advantage
-- Improve the development efficiency of flask dynamic website, you can run a flask website with complex file structure in two steps
-- Greatly reduces the probability of encountering bugs during flask development
-- Lightweight, easy to read, easy to use, easy to run
-- Tutorial is easy to find and clear
-- Encapsulates mysql related functions, because mysql is widely used in the generation environment. It makes up for the deficiency that SQLAlchemy can only use sqlite in the official flask document.
-- Defines a relatively standard flask file structure, allowing complex dynamic website development to follow 
-
-## Compare 
-|formwork-flask|django|
-|---|---|
-|**rapid development**|general|
-|**Lightweight**|Structure is complex|
-|Read easily|Read difficult|
-|Use easily|Use cumbersomely|
-|Few BUGs|Unknown|
-
 ## Join us
 
 Your help is more than welcome! Even just open an issue to ask a question may greatly help others.
