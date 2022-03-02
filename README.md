@@ -31,7 +31,7 @@ It's intergrates various code such as mysql(pymysql),function for web developmen
 - Defines a relatively standard flask file structure, allowing complex dynamic website development to follow 
 
 ## Compare 
-|formwork(flask)|django|
+|formwork-flask|django|
 |---|---|
 |Lightweight|Structure is complex|
 |Read easily|Read difficult|
