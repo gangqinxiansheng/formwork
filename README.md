@@ -10,8 +10,9 @@ It's intergrates various code such as mysql(pymysql),function for web developmen
 
 ## How to use?
 
-- change project/templates/ folder to add or modify html file.
+- Change project/templates/ folder to add or modify html file.
 - Change project/routes/ folder to modify route.py file.
+- Run ```pip install -r requirements.txt``` to install required module.
 - Follow script.sh to serve the web. run  ```chmod +x script.sh && ./script.sh``` on linux environment.if you run formwork on windows, download git and run ```./script.sh``` on git bash.
 
 ## Join us
