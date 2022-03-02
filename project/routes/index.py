@@ -1,9 +1,9 @@
 #coding=utf-8
-import sys
+import sys,os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(str(BASE_DIR))
 
-import functools,os,datetime,random,string,json
+import functools,datetime,random,string,json
 
 import requests
 
@@ -44,7 +44,7 @@ def index():
     g_p_d = getpostdict
     #print(g_p_d)
     #return render_template('index.html',name="formwork index")
-    return "hello framework flask"
+    return "hello formwork flask"
 
 @indexbp.route('/test/formwork', methods=('GET', 'POST'))
 def test_formwork():

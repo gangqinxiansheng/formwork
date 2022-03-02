@@ -1,9 +1,9 @@
 #coding=utf-8
-import sys
+import sys,os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(str(BASE_DIR))
 
-import functools,os,datetime,random,string,json
+import functools,datetime,random,string,json
 
 import requests
 

@@ -1,8 +1,8 @@
 #coding=utf-8
-import sys
+import sys,os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(str(BASE_DIR))
-import functools,os
+import functools
 
 from flask import (
     Blueprint,flash,g,redirect,render_template,request,session, url_for,current_app,jsonify,abort,send_from_directory
