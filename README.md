@@ -12,7 +12,6 @@ It's intergrates various code such as mysql(pymysql),function for web developmen
 
 - change project/templates/ folder to add or modify html file.
 - Change project/routes/ folder to modify route.py file.
-- run ```python setup.py install``` to install required module on root directory.
 - Follow script.sh to serve the web. run  ```chmod +x script.sh && ./script.sh``` on linux environment.if you run formwork on windows, download git and run ```./script.sh``` on git bash.
 
 ## Join us
