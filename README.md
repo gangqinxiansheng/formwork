@@ -8,11 +8,14 @@ It's intergrates various code such as mysql(pymysql),function for web developmen
 
 #### English | [简体中文](/README_CN.md)
 
+## Install
+
+- Run ```pip install -r requirements.txt``` to install required module.
+
 ## How to use?
 
-- Change project/templates/ folder to add or modify html file.
-- Change project/routes/ folder to modify route.py file.
-- Run ```pip install -r requirements.txt``` to install required module.
+- Change project/templates/ folder to add or modify html file.(optional)
+- Change project/routes/ folder to modify route.py file.(optional)
 - Follow script.sh to serve the web. run  ```chmod +x script.sh && ./script.sh``` on linux environment.if you run formwork on windows, download git and run ```./script.sh``` on git bash.
 
 ## Join us
