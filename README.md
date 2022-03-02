@@ -18,6 +18,10 @@ It's intergrates various code such as mysql(pymysql),function for web developmen
 - Change project/routes/ folder to modify route.py file.(optional)
 - Follow script.sh to serve the web. run  ```chmod +x script.sh && ./script.sh``` on linux environment.if you run formwork on windows, download git and run ```./script.sh``` on git bash.
 
+## Required Environment
+
+- Python 2.7+ version, better 3.6 version
+
 ## Join us
 
 Your help is more than welcome! Even just open an issue to ask a question may greatly help others.
