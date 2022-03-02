@@ -8,10 +8,12 @@ formwork是一个高度封装的flask demo.
 
 #### 简体中文 | [English](/README.md)
 
-## 如何使用
+## 安装
+- 在根目录运行 ```pip install -r requirements.txt``` 去安装需要的模块。
+
+## 开始使用
 - 在 project/templates/ 路径下添加或修改HTML文件。(可选)
 - 在 project/routes/ 文件夹以修改 .py 的路由文件。(可选)
-- 在根目录运行 ```python setup.py install``` 去安装指定模块
 - 如果在linux下 运行以下代码，```chmod +x script.sh && ./script.sh```。如果在Windows上运行formwork，请下载git并在git上运行 ```./script.sh``` 命令来使用该代码。
 
 ## 优势
