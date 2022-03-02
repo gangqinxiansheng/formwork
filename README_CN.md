@@ -9,7 +9,7 @@ formwork是一个高度封装的flask demo.
 #### 简体中文 | [English](/README.md)
 
 ## 安装
-- 在根目录运行 ```pip install -r requirements.txt``` 去安装需要的模块。
+- 在根目录运行 ```pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple``` 去安装需要的模块。
 
 ## 开始使用
 - 在 project/templates/ 路径下添加或修改HTML文件。(可选)
