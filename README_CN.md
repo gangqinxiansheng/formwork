@@ -16,6 +16,10 @@ formwork是一个高度封装的flask demo.
 - 在 project/routes/ 文件夹以修改 .py 的路由文件。(可选)
 - 如果在linux下 运行以下代码，```chmod +x script.sh && ./script.sh```。如果在Windows上运行formwork，请下载git并在git上运行 ```./script.sh``` 命令来使用该代码。
 
+## 所需环境 
+
+- Python 2.7以上 版本, 最好是 3.6 版本。
+
 ## 优势
 - 提高flask动态网站开发效率,两步即可跑起一款拥有复杂文件结构的flask网站
 - 极大减少了flask开发时遇到BUG的概率
