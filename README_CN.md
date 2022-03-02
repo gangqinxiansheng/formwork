@@ -14,7 +14,7 @@ formwork是一个高度封装的flask demo.
 ## 开始使用
 - 在 project/templates/ 路径下添加或修改HTML文件。(可选)
 - 在 project/routes/ 文件夹以修改 .py 的路由文件。(可选)
-- 如果在linux下 运行以下代码，```chmod +x script.sh && ./script.sh```。如果在Windows上运行formwork，请下载git并在git上运行 ```./script.sh``` 命令来使用该代码。
+- 在linux下运行```chmod +x script.sh && ./script.sh```。在Windows上运行script.bat。
 
 ## 所需环境 
 
