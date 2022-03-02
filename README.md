@@ -33,7 +33,8 @@ It's intergrates various code such as mysql(pymysql),function for web developmen
 ## Compare 
 |formwork-flask|django|
 |---|---|
-|Lightweight|Structure is complex|
+|**rapid development**|general|
+|**Lightweight**|Structure is complex|
 |Read easily|Read difficult|
 |Use easily|Use cumbersomely|
 |Few BUGs|Unknown|
