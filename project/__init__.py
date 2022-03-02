@@ -4,7 +4,6 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(str(BASE_DIR))
 
 from flask import Flask
-from flask_sqlalchemy import SQLAlchemy
 
 def create_app(test_config=None):
     # create and configure the app
