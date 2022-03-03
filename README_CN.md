@@ -9,9 +9,11 @@ formwork是一个高度封装的flask demo.
 #### 简体中文 | [English](/README.md)
 
 ## 安装
+
 - 在根目录运行 ```pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple``` 去安装需要的模块。
 
 ## 开始使用
+
 - 在 ```project/templates/``` 路径下添加或修改HTML文件。(可选)
 - 在 ```project/routes/``` 文件夹以修改 **.py** 的路由文件。(可选)
 - 在linux下运行```chmod +x script.sh && ./script.sh```。在Windows上点击**script.bat**运行。
@@ -26,7 +28,7 @@ formwork是一个高度封装的flask demo.
 - 代码轻量 易读 易上手 易运行.
 - 文件教程详细易找.
 - 极大减少了flask开发时遇到BUG的概率.
-- 封装了mysql相关函数,因为mysql大量用于生成环境.弥补了flask官方文档中SQLAlchemy只能使用sqlite的不足.
+- 封装了mysql相关函数,因为mysql大量用于生成环境.弥补了flask官方文档中SQLAlchemy只能使用sqlite或者mongodb的不足.
 - 定义了一个相对标准的flask文件结构,让复杂的动态网站开发有迹可循.
 
 ## 对比
