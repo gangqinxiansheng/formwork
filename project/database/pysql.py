@@ -122,11 +122,11 @@ class MYSQL:
 # result_list= formwork_mysql.ExecQuery("SELECT A,B,C FROM formwork_table_name")
 # for ( A,B,C ) in result_list:
 #     print A,B,C
-# #增加
+# #Add 增加
 # formwork_mysql.ExecNonQuery( "insert into formwork_table_name(A,B,C) values('{0}','{1}','{2}')".format(u"aa",u"bb",u"cc") )
-# #减少
+# #Reduce 减少
 # formwork_mysql.ExecNonQuery( '''delete from formwork_table_name where A like "{0}"'''.format(u",,") )
-# #改
+# #Modify 改
 # formwork_mysql.ExecNonQuery( '''update formwork_table_name set {2} = "{3}" where {0}="{1}"'''.format(u"aa",u"bb","cc","dd") )
 
 # result_list = formwork_mysql.ExecQuery("SELECT A,B,C FROM formwork_table_name")
