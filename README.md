@@ -12,7 +12,7 @@ It's intergrates various code such as mysql(pymysql),function for web developmen
 
 - Run ```pip install -r requirements.txt``` to install required module.
 
-## How to use?
+## Start
 
 - Change project/templates/ folder to add or modify html file.(optional)
 - Change project/routes/ folder to modify route.py file.(optional)
