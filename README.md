@@ -6,7 +6,7 @@
 
 ****
 
-How to Build dynamic web **rapidly**,We choose Formwork-Flask. 
+How to Build dynamic web **rapidly**? We choose **Formwork**-Flask. 
 
 **Formwork** is a highly packaged Flask Demo.
 
