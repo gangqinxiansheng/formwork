@@ -1,6 +1,6 @@
 # Overview
 
-[![](https://img.shields.io/badge/github-issues-%2365A30D?style=flat-square&logo=github)](https://github.com/Oumae-Kumiko/time-zone-date/issues)
+[![](https://img.shields.io/badge/github-issues-%2365A30D?style=flat-square&logo=github)](https://github.com/tpsmr/formwork/issues)
 
 #### English | [简体中文](/README_CN.md)
 
@@ -38,4 +38,4 @@ It's the **easiest** way and **fastest** way to create Flask dynamic website wit
 
 ## Join us
 
-Your help is more than welcome! Even just open an issue to ask a question may greatly help others.
+Your help is more than welcome! Even just open an [issue](https://github.com/tpsmr/formwork/issues) to ask a question may greatly help others.
