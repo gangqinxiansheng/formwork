@@ -6,11 +6,11 @@
 
 **极速**建站,我选**Formwork**-Flask! **Python**网站开发者的福音!🔥🔥🔥
 
-formwork是一个高度封装的flask demo.
+**Formwork**是一个高度封装的Flask Demo.
 
-它集成了各种代码,比如mysql(pymysql),用于web开发目的第三方包，route demo，templates demo(存放html的文件)等等。
+它集成了各种代码,比如Mysql(Pymysql),用于web开发目的第三方包，route Demo，templates Demo(存放html的文件)等等。
 
-这是全网 **最方便** , **教程易读** 的Flask with mysql的Demo, **一键** 安装, **一键** 运行.
+这是全网 **最方便** , **教程易读** 的Flask with Mysql的Demo, **一键** 安装, **一键** 运行.
 ## 安装
 
 - 在根目录运行 ```pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple``` 去安装需要的模块。
