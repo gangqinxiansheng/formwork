@@ -24,7 +24,7 @@ It's the **easiest** way and **fastest** way to create Flask dynamic website wit
 
 ## How to Use
 
-- Change ```project/templates/``` folder to add or modify **html** file.( **Optional** )
+- Change ```project/templates/``` folder to add or modify static **html**,**css**,**js** file.( **Optional** )
 - Change ```project/routes/``` folder to modify **route** file with **.py** suffix.( **Optional** )
 - Change ```formwork/project/database/pysql_config.py``` file to edit Mysql config.( **Optional** )
 - If Mysql Database is needed,follow Mysql [Example](https://github.com/tpsmr/formwork/blob/13b4cddd9b06a42bb63a563c29ff4a470dfc4025/project/database/pysql.py#L119) to create new Mysql code.( **Optional** )
