@@ -14,8 +14,8 @@ It's intergrates various code such as mysql(pymysql),function for web developmen
 
 ## Start
 
-- Change project/templates/ folder to add or modify html file.(optional)
-- Change project/routes/ folder to modify route.py file.(optional)
+- Change ```project/templates/``` folder to add or modify **html** file.(optional)
+- Change ```project/routes/``` folder to modify **route** file with .py suffix.(optional)
 - Run  ```chmod +x script.sh && ./script.sh``` on Linux. Run script.cmd on Windows.
 
 ## Required Environment
