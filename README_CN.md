@@ -12,6 +12,10 @@ formwork是一个高度封装的flask demo.
 
 - 在根目录运行 ```pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple``` 去安装需要的模块。
 
+## 运行
+
+- 在linux下运行```chmod +x script.sh && ./script.sh```。在Windows上点击 **script.bat** 运行.
+
 ## 开始使用
 
 - 在 ```project/templates/``` 路径下添加或修改HTML文件.( **可选** )
