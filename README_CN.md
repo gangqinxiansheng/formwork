@@ -23,7 +23,7 @@
 
 ## 开始使用
 
-- 在 ```project/templates/``` 路径下添加或修改HTML文件.( **可选** )
+- 在 ```project/templates/``` 路径下添加或修改静态HTML,JS,CSS文件.( **可选** )
 - 在 ```project/routes/``` 文件夹以修改 **.py** 的路由文件.( **可选** )
 - 如果需要用到Mysql数据库,在 ```formwork/project/database/pysql_config.py``` 修改Mysql参数.( **可选** )
 - 模仿 Mysql [例子](https://github.com/tpsmr/formwork/blob/13b4cddd9b06a42bb63a563c29ff4a470dfc4025/project/database/pysql.py#L119) 创建新的 Mysql 代码.( **可选** )
