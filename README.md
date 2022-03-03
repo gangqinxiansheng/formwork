@@ -16,8 +16,8 @@ It's the **easiest** way and **fastest** way to create Flask dynamic website wit
 
 ## Start
 
-- Change ```project/templates/``` folder to add or modify **html** file.(Optional)
-- Change ```project/routes/``` folder to modify **route** file with **.py** suffix.(Optional)
+- Change ```project/templates/``` folder to add or modify **html** file.( **Optional** )
+- Change ```project/routes/``` folder to modify **route** file with **.py** suffix.( **Optional** )
 - Run  ```chmod +x script.sh && ./script.sh``` on Linux. Run **script.cmd** on Windows.
 
 ## Required Environment
