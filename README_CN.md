@@ -4,7 +4,7 @@
 
 #### 简体中文 | [English](/README.md)
 
-**极速** 建站,我选Formwork-Flask! Python网站开发者的福音!🔥🔥🔥
+**极速**建站,我选**Formwork**-Flask! **Python**网站开发者的福音!🔥🔥🔥
 
 formwork是一个高度封装的flask demo.
 
