@@ -14,13 +14,14 @@ formwork是一个高度封装的flask demo.
 
 ## 开始使用
 
-- 在 ```project/templates/``` 路径下添加或修改HTML文件。(可选)
-- 在 ```project/routes/``` 文件夹以修改 **.py** 的路由文件。(可选)
-- 在linux下运行```chmod +x script.sh && ./script.sh```。在Windows上点击**script.bat**运行。
+- 在 ```project/templates/``` 路径下添加或修改HTML文件.(可选)
+- 在 ```project/routes/``` 文件夹以修改 **.py** 的路由文件.(可选)
+- 在linux下运行```chmod +x script.sh && ./script.sh```。在Windows上点击**script.bat**运行.
 
 ## 所需环境 
 
-- Python 2.7以上 版本, 最好是 3.6 版本。
+- Python 2.7以上 版本, 最好是 3.6 版本.
+- Mysql.(可选)
 
 ## 优势
 - 提高flask动态网站开发效率,两步即可运行一款拥有复杂文件结构的flask网站.
