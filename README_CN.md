@@ -8,6 +8,8 @@ formwork是一个高度封装的flask demo.
 
 它集成了各种代码，比如mysql(pymysql)，用于web开发目的第三方包，route demo，templates demo(存放html的文件)等等。
 
+这是全网最方便，教程易读的Flask with mysql的Demo,一键安装,一键运行,Python Flask 网站开发者的福音!🔥🔥🔥
+
 ## 安装
 
 - 在根目录运行 ```pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple``` 去安装需要的模块。
