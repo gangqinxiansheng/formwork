@@ -30,7 +30,7 @@ It's the **easiest** way and **fastest** way to create Flask dynamic website wit
 ## Required Environment
 
 - Python 2.7+ version, better 3.6 version
-- Mysql(Optional)
+- Mysql( **Optional** )
 
 ## Join us
 
