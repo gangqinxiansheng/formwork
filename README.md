@@ -4,9 +4,13 @@
 
 #### English | [简体中文](/README_CN.md)
 
-Formwork is a highly packaged flask demo.
+****
 
-It's intergrates various code such as mysql(pymysql),function for web development purposes,route demo, template demo and so on.
+How to Build dynamic web **rapidly**,We choose Formwork-Flask. 
+
+**Formwork** is a highly packaged Flask Demo.
+
+It's intergrates various code such as Mysql(Pymysql),function for web development purposes,route demo, template Demo and so on.
 
 It's the **easiest** way and **fastest** way to create Flask dynamic website with Mysql.
 
