@@ -15,7 +15,7 @@
 这是全网 **最方便** , **教程易读** 的Flask with Mysql的Demo, **一键** 安装, **一键** 运行.
 ## 安装
 
-- 在根目录运行 ```pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple``` 去安装需要的模块。
+- 在根目录运行 ```pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple``` 去安装所需模块，或者运行install.cmd / install.sh 安装所需模块。
 
 ## 运行
 
