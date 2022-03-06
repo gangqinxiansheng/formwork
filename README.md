@@ -16,7 +16,7 @@ It's the **easiest** way and **fastest** way to create Flask dynamic website wit
 
 ## Install
 
-- Run ```pip install -r requirements.txt``` to install required module.
+- Run ```pip install -r requirements.txt``` to install required module or Run install.cmd / install.script to install  required module.
 
 ## Run
 
